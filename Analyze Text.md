@@ -1,11 +1,12 @@
-# Analyze Text
+ # Analyze Text
 
-**Azure Language** supports analysis of text, including language detection, sentiment analysis, key phrase extraction, and entity recognition.
+ **Azure Language** supports analysis of text, including language detection, sentiment analysis, key phrase extraction, and entity recognition.
 
-For example, suppose a travel agency wants to process hotel reviews that have been submitted to the company’s web site. By using the Azure AI Language, they can determine the language each review is written in, the sentiment (positive, neutral, or negative) of the reviews, key phrases that might indicate the main topics discussed in the review, and named entities, such as places, landmarks, or people mentioned in the reviews.
+ For example, suppose a travel agency wants to process hotel reviews that have been submitted to the company’s web site. By using the Azure AI Language, they can determine the language each review is written in, the 
+ sentiment (positive, neutral, or negative) of the reviews, key phrases that might indicate the main topics discussed in the review, and named entities, such as places, landmarks, or people mentioned in the reviews.
 
-## Provision an Azure AI Language resource
-If you don’t already have one in your subscription, you’ll need to provision **an Azure AI Language service** resource in a supported region.
+ ## Provision an Azure AI Language resource
+ If you don’t already have one in your subscription, you’ll need to provision **an Azure AI Language service** resource in a supported region.
 
 1. Open the Azure portal at https://portal.azure.com, and sign in using the Microsoft account associated with your Azure subscription.
 2. In the search field at the top, search for **Azure AI services**. Then, in the results, select **Create** under **Language Service**.
